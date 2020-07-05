@@ -1,0 +1,19 @@
+{
+  "name": "one-kiosk-frontend",
+  "version": "1.0.0",
+  "description": "Front end for customer web",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-nach/one-kiosk-frontend.git"
+  },
+  "author": "Iheanacho victor nonso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victor-nach/one-kiosk-frontend/issues"
+  },
+  "homepage": "https://github.com/victor-nach/one-kiosk-frontend#readme"
+}
